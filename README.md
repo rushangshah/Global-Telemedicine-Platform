@@ -1,4 +1,4 @@
-# Laravel Vue.js Boilerplate for Telemedicine Platform
+# Laravel Vue.js Telemedicine Platform
 
 ## Architecture Overview
 ### Tech Stack
