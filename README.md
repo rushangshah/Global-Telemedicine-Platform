@@ -4,7 +4,7 @@
 ### Tech Stack
 - **Backend**: Laravel (PHP 8+), MySQL/PostgreSQL, Redis
 - **Frontend**: Vue.js (Vite, Vue Router, Vuex/Pinia)
-- **Cloud**: AWS (Cognito, S3, Lambda, RDS, CloudWatch)
+- **Cloud**: AWS (Cognito, S3, RDS, CloudWatch)
 - **Security**: OAuth2, JWT, MFA, WAF, TLS Encryption
 - **Integrations**: Twilio/Vonage (Video & Chat), Stripe/PayPal (Payments), AWS SES/Twilio (Notifications)
 
@@ -76,7 +76,6 @@ npm run dev
 ## AWS Services
 - Cognito/Auth0 for Authentication
 - S3 for Document Storage
-- Lambda for Async Processing
 - RDS for Database
 - CloudWatch for Monitoring
 
